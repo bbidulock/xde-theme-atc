@@ -1,0 +1,82 @@
+XDE-Theme*Name:				Atc
+XDE-Theme*Style:			Squared-grey
+
+XDE-Theme*WallpaperDefault:		atc
+XDE-Theme*WallpaperRepeat:		true
+XDE-Theme*Wallpaper0:			atc
+XDE-Theme*Wallpaper1:			atc2
+XDE-Theme*Wallpaper2:			changi
+XDE-Theme*Wallpaper3:			gatwick
+XDE-Theme*Wallpaper4:			jersey
+XDE-Theme*Wallpaper5:			takeoff
+XDE-Theme*Wallpaper6:			routes
+XDE-Theme*Wallpaper7:			sillouette
+
+XDE-Theme*Workspaces:			8
+XDE-Theme*WorkspaceNames:		\ 1 , 2 , 3 , 4 , 5 , 6 , 7, 8 , 9 
+
+XDE-Theme*WorkspaceColor:		#000000
+XDE-Theme*WorkspaceCenter:		0
+XDE-Theme*WorkspaceScaled:		0
+XDE-Theme*WorkspaceTiled:		0
+XDE-Theme*WorkspaceFull:		1
+XDE-Theme*WorkspaceImage:		atc/atc.jpg
+
+XDE-Theme*Workspace0Image:		atc/atc.jpg
+XDE-Theme*Workspace1Image:		atc/atc2.jpg
+XDE-Theme*Workspace2Image:		atc/changi.jpg
+XDE-Theme*Workspace3Image:		atc/gatwick.jpg
+XDE-Theme*Workspace4Image:		atc/jersey.jpg
+XDE-Theme*Workspace5Image:		atc/takeoff.jpg
+XDE-Theme*Workspace6Image:		atc/sillouette.jpg
+XDE-Theme*Workspace7Image:		atc/routes.jpg
+
+XDE-Theme.blackbox.WorkspaceNames:	Workspace 1,Workspace 2,Workspace 3,Workspace 4,Workspace 5,Workspace 6,Workspace 7,Workspace 8,Workspace 9
+
+XDE-Theme.openbox.WorkspaceNames:	1,2,3,4,5,6,7,8,9
+
+XDE-Theme.icewm.WorkspaceNames:		\ 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 
+
+XDE-Theme.jwm.WorkspaceNames:		1,2,3,4,5,6,7,8,9
+
+XDE-Theme.ctwm.WorkspaceNames:		1,2,3,4,5,6,7,8,9
+
+XDE-Theme.vtwm.WorkspaceNames:		1,2,3,4,5,6,7,8,9
+
+XDE-Theme.twm.Workspaces:		1
+XDE-Theme.twm.WorkspaceNames:		1,2,3,4,5,6,7,8,9
+
+XSettings*gtk-button-images:			1
+!XSettings*gtk-color-scheme:			
+XSettings*gtk-cursor-theme-name:		Bluecurve
+XSettings*gtk-cursor-theme-size:		18
+XSettings*gtk-enable-event-sounds:		1
+XSettings*gtk-enable-input-feedback-sounds:	1
+XSettings*gtk-enable-sounds:			1
+XSettings*gtk-fallback-icon-theme:		hicolor
+XSettings*gtk-font-name:			Liberation Sans 9
+!XSettings*gtk-icon-sizes:			
+XSettings*gtk-icon-theme-name:			gnome-brave
+!XSettings*gtk-key-theme-name:			
+XSettings*gtk-menu-bar-accel:			F10
+XSettings*gtk-menu-images:			1
+XSettings*gtk-sound-theme-name:			freedesktop
+XSettings*gtk-theme-name:			Mist
+XSettings*gtk-toolbar-icon-size:		GTK_ICON_SIZE_LARGE_TOOLBAR
+XSettings*gtk-toolbar-style:			GTK_TOOLBAR_BOTH
+XSettings*gtk-xft-antialias:			1
+XSettings*gtk-xft-hinting:			1
+XSettings*gtk-xft-hintstyle:			hintful
+XSettings*gtk-xft-rgba:				rgb
+XSettings*net-enable-event-sounds:		1
+XSettings*net-enable-input-feedback-sounds:	1
+XSettings*net-icon-theme-name:			gnome-brave
+XSettings*net-theme-name:			Mist
+XSettings*xde-menu-theme-name:			Squared-grey
+XSettings*xde-theme-name:			Atc
+XSettings*xft-antialias:			1
+XSettings*xft-hinting:				1
+XSettings*xft-hintstyle:			hintful
+XSettings*xft-rgba:				rgb
+
+! vim: ft=xdefaults
