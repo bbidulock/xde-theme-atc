@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-[xde-theme-atc -- read me first file.  2014-09-12]: #
+[xde-theme-atc -- read me first file.  2021-12-08]: #
 
 xde-theme-atc
 ===============
 
-Package `xde-theme-atc-1.1.5` was released under CCPL:cc-by-nc-nd-3.0
-license 2014-09-12.
+Package `xde-theme-atc-1.2` was released under CCPL:cc-by-nc-nd-3.0
+license 2021-12-08.
 
 This is a theme and a set of backgrounds for the _XDE (X Desktop
 Environment)_ that provides a set of backgrounds on
@@ -21,7 +21,7 @@ The source for `xde-theme-atc` is hosted on [GitHub][1].
 Release
 -------
 
-This is the `xde-theme-atc-1.1.5` package, released 2014-09-12.
+This is the `xde-theme-atc-1.2` package, released 2021-12-08.
 This release, and the latest version, can be obtained from [GitHub][1],
 using a command such as:
 
