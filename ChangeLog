@@ -1,0 +1,89 @@
+# created with git log --stat=76 -M -C -500|fmt -sct -w80
+
+commit b917c98990b2d53954abce0b800e06bf1faa2f48
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Sep 12 15:38:47 2014 -0600
+
+    added adwm style
+
+ Makefile.am        | 34 ++++++++++++++++++----------------
+ configure.template |  6 ++++++
+ 2 files changed, 24 insertions(+), 16 deletions(-)
+
+commit 6c7768b7c4ddefa053de8c972fcc645a68b87426
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Aug 17 17:12:14 2014 -0600
+
+    add themerc file
+
+ Makefile.am   |  3 +-
+ theme/themerc | 82 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 84 insertions(+), 1 deletion(-)
+
+commit 986ad40eedca8e5e19d5e140fcb55926f89b4cc7
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jan 25 05:10:55 2014 -0700
+
+    added waimea support
+
+ Makefile.am        | 32 +++++++++++++++++---------------
+ configure.template |  6 ++++++
+ 2 files changed, 23 insertions(+), 15 deletions(-)
+
+commit b472d7155bef0881b624a378820347ac761c627b
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Dec 23 17:48:24 2013 -0700
+
+    updated desription
+
+ README | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+commit 0ea69d3ec429244af5926fe0df15021a519e81ba
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Dec 23 16:46:52 2013 -0700
+
+    remove intermediate file
+
+ images/tower.ppm | 57 ----------------------------------------------------
+ 1 file changed, 57 deletions(-)
+
+commit a8d3e7f5d9002b72789276f07f5660289ddbbf98
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Dec 23 15:02:44 2013 -0700
+
+    initial commit
+
+ .gitignore                       |  12 ++++
+ AUTHORS                          |   3 +
+ COPYING                          |  58 ++++++++++++++++
+ Makefile.am                      |  79 ++++++++++++++++++++++
+ NEWS                             |  10 +++
+ README                           |  65 ++++++++++++++++++
+ THANKS                           |   3 +
+ autogen.sh                       |  19 ++++++
+ configure.template               | 126 +++++++++++++++++++++++++++++++++++
+ images/atc.jpg                   | Bin 0 -> 396699 bytes
+ images/atc2.jpg                  | Bin 0 -> 252365 bytes
+ images/changi.jpg                | Bin 0 -> 248582 bytes
+ images/control.jpg               | Bin 0 -> 560352 bytes
+ images/cyeg.jpg                  | Bin 0 -> 411975 bytes
+ images/darktower.jpg             | Bin 0 -> 402054 bytes
+ images/dulles.jpg                | Bin 0 -> 364579 bytes
+ images/floor.jpg                 | Bin 0 -> 571719 bytes
+ images/gatwick.jpg               | Bin 0 -> 231282 bytes
+ images/jersey.jpg                | Bin 0 -> 352177 bytes
+ images/jersey_atc.jpg            | Bin 0 -> 374824 bytes
+ images/lax.jpg                   | Bin 0 -> 304377 bytes
+ images/main.jpg                  | Bin 0 -> 419795 bytes
+ images/reagan.jpg                | Bin 0 -> 442308 bytes
+ images/routes.jpg                | Bin 0 -> 512297 bytes
+ images/sillouette.jpg            | Bin 0 -> 105979 bytes
+ images/sunrise_control_tower.jpg | Bin 0 -> 305111 bytes
+ images/takeoff.jpg               | Bin 0 -> 343195 bytes
+ images/tower.ppm                 |  57 ++++++++++++++++
+ images/united.jpg                | Bin 0 -> 157428 bytes
+ images/virtual.jpg               | Bin 0 -> 282593 bytes
+ theme/style                      |  53 +++++++++++++++
+ theme/theme.ini                  |  94 ++++++++++++++++++++++++++
+ 32 files changed, 579 insertions(+)
