@@ -79,6 +79,11 @@ Report issues on GitHub [here][2].
 Samples
 -------
 
+Following is a sample screenshot of the theme taken under the [ADWM][13]
+window manager:
+
+![adwm.jpg](scrot/adwm.jpg "Wallpaper #2")
+
 Following are the eight wallpapers included in the theme:
 
 ![atc.jpg](images/atc.jpg "Wallpaper #1")
@@ -90,19 +95,18 @@ Following are the eight wallpapers included in the theme:
 ![routes.jpg](images/routes.jpg "Wallpaper #7")
 ![sillouette.jpg](images/sillouette.jpg "Wallpaper #8")
 
-
-
-[1]: https://github.com/bbidulock/xde-theme-ahsoka
-[2]: https://github.com/bbidulock/xde-theme-ahsoka/issues
-[3]: https://github.com/bbidulock/xde-theme-ahsoka/blob/master/RELEASE
-[4]: https://github.com/bbidulock/xde-theme-ahsoka/blob/master/NEWS
-[5]: https://github.com/bbidulock/xde-theme-ahsoka/blob/master/ChangeLog
-[6]: https://github.com/bbidulock/xde-theme-ahsoka/blob/master/TODO
-[7]: https://github.com/bbidulock/xde-theme-ahsoka/blob/master/COMPLIANCE
-[8]: https://github.com/bbidulock/xde-theme-ahsoka/blob/master/INSTALL
-[9]: https://github.com/bbidulock/xde-theme-ahsoka/blob/master/LICENSE
-[10]: https://github.com/bbidulock/xde-theme-ahsoka/blob/master/COPYING
+[1]: https://github.com/bbidulock/xde-theme-atc
+[2]: https://github.com/bbidulock/xde-theme-atc/issues
+[3]: https://github.com/bbidulock/xde-theme-atc/blob/1.2/RELEASE
+[4]: https://github.com/bbidulock/xde-theme-atc/blob/1.2/NEWS
+[5]: https://github.com/bbidulock/xde-theme-atc/blob/1.2/ChangeLog
+[6]: https://github.com/bbidulock/xde-theme-atc/blob/1.2/TODO
+[7]: https://github.com/bbidulock/xde-theme-atc/blob/1.2/COMPLIANCE
+[8]: https://github.com/bbidulock/xde-theme-atc/blob/1.2/INSTALL
+[9]: https://github.com/bbidulock/xde-theme-atc/blob/1.2/LICENSE
+[10]: https://github.com/bbidulock/xde-theme-atc/blob/1.2/COPYING
 [11]: https://github.com/bbidulock/xde-styles
-[11]: https://github.com/bbidulock/xde-ctools
+[12]: https://github.com/bbidulock/xde-ctools
+[13]: https://bbidulock.github.io/adwm
 
 [ vim: set ft=markdown sw=4 tw=72 nocin nosi fo+=tcqlorn spell: ]: #
