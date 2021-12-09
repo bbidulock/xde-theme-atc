@@ -95,6 +95,24 @@ Following are the eight wallpapers included in the theme:
 ![routes.jpg](images/routes.jpg "Wallpaper #7")
 ![sillouette.jpg](images/sillouette.jpg "Wallpaper #8")
 
+Following are an additional twelve wallpapers that may be used to
+customize the theme:
+
+![control.jpg](images/control.jpg "Additional Image #1")
+![cyeg.jpg](images/cyeg.jpg "Additional Image #2")
+![darktower.jpg](images/darktower.jpg "Additional Image #3")
+![dulles.jpg](images/dulles.jpg "Additional Image #4")
+![floor.jpg](images/floor.jpg "Additional Image #5")
+![jersey_atc.jpg](images/jersey_atc.jpg "Additional Image #6")
+![lax.jpg](images/lax.jpg "Additional Image #7")
+![main.jpg](images/main.jpg "Additional Image #8")
+![reagan.jpg](images/reagan.jpg "Additional Image #9")
+![sunrise_control_tower.jpg](images/sunrise_control_tower.jpg "Additional Image #10")
+![united.jpg](images/united.jpg "Additional Image #11")
+![virtual.jpg](images/virtual.jpg "Additional Image #12")
+
+
+
 [1]: https://github.com/bbidulock/xde-theme-atc
 [2]: https://github.com/bbidulock/xde-theme-atc/issues
 [3]: https://github.com/bbidulock/xde-theme-atc/blob/1.2/RELEASE
